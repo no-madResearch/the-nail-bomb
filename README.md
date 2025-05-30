@@ -1,8 +1,8 @@
 # The Nail-Bomb  
 ## A Protocol-Scale Adtech Zero Day via Preview Injection, Trust Recursion, and Glyph-Level Propagation
 
-> Published by **No Mad Research**, a division of No.Mad Project  
-> Authors: [Juan González](https://www.no-madproject.com) & Bort (Independent Security Auditor, CH)
+> Published by **Nomad Research**, a division of No.Mad Project  
+> Authors: [Juan González](Tech Researcher) & Bort (Independent Security Auditor, CH)
 
 ---
 
@@ -25,7 +25,7 @@ This is not malware. It is an epistemic artifact revealing ontological negligenc
 This research is published strictly for educational and defensive infrastructure auditing purposes.  
 It does not endorse, support, or facilitate misuse of the included technical methodologies.
 
-For disclosures, collaborations, or inquiries, contact: [research@no-madproject.com](mailto:juan.gonzalez@no-madproject.com)
+For disclosures, collaborations, or inquiries, contact: [research@no-madproject.com](mailto:research@no-madproject.com)
 
 ---
 # THE NAIL-BOMB  
@@ -33,7 +33,7 @@ For disclosures, collaborations, or inquiries, contact: [research@no-madproject.
 
 **Authors:**  
 - **Bort** — System Engineer & Independent Security Auditor (Switzerland)  
-- **Juan González** — Technical Researcher, Partner & CTO at No.Mad Project (https://www.no-madproject.com)
+- **Juan González** — Technical Researcher, Partner & CTO at No.Mad Project
 
 ---
 
@@ -191,3 +191,19 @@ Wherever logic is replicated, it can re-emerge.
 This is no longer preview QA.  
 This is protocol collapse, distributed through belief.
 
+
+---
+
+ 
+
+## 👤 About the Authors
+
+**Juan González**  
+Partner & CTO at [No.Mad Project](https://www.no-madproject.com), a creative technology and advertising firm focused on immersive digital experiences. At No.Mad, Juan leads product development and creative innovation across adtech-integrated environments. His background includes large-scale campaign delivery systems and the architecture of next-generation creative logic.
+
+His role in *The Nail-Bomb* involved OSINT mapping, pattern analysis, and field validation across publisher and programmatic ecosystems — bridging practical production knowledge with emergent signal analysis.
+
+**Bort**  
+Independent Security Engineer based in Switzerland. Bort specializes in protocol-layer audit logic, creative script delivery manipulation, and glyph-level symbolic payload design. He reverse-engineered the VPAID loader paths, exploited unsanitized token logic, and embedded recursive entropy generators within adtech preview environments. He prefers vectors that hide in belief rather than code.
+
+📧 [research@no-madproject.com](mailto:research@no-madproject.com)
