@@ -2,7 +2,7 @@
 ## A Protocol-Scale Adtech Zero Day via Preview Injection, Trust Recursion, and Glyph-Level Propagation
 
 > Published by **Nomad Research**, a division of No.Mad Project  
-> Authors: [Juan González](Tech Researcher) & Bort (Independent Security Auditor, CH)
+> Authors: JuanG (Tech Researcher) & Bort (Independent Security Auditor, CH)
 
 ---
 
@@ -198,7 +198,7 @@ This is protocol collapse, distributed through belief.
 
 ## 👤 About the Authors
 
-**Juan González**  
+**JuanG**  
 Partner & CTO at [No.Mad Project](https://www.no-madproject.com), a creative technology and advertising firm focused on immersive digital experiences. At No.Mad, Juan leads product development and creative innovation across adtech-integrated environments. His background includes large-scale campaign delivery systems and the architecture of next-generation creative logic.
 
 His role in *The Nail-Bomb* involved OSINT mapping, pattern analysis, and field validation across publisher and programmatic ecosystems — bridging practical production knowledge with emergent signal analysis.
