@@ -196,12 +196,14 @@ This is protocol collapse, distributed through belief.
 
 ## 👤 About the Authors
 
+**Bort**  
+Independent Security Engineer based in Switzerland. Bort specializes in protocol-layer audit logic, creative script delivery manipulation, and glyph-level symbolic payload design. He reverse-engineered the VPAID loader paths, exploited unsanitized token logic, and embedded recursive entropy generators within adtech preview environments. He prefers vectors that hide in belief rather than code. (Ex-Google).
+
 **JuanG**  
-Partner & CTO at [No.Mad Project](https://www.no-madproject.com), a creative technology and advertising firm focused on immersive digital experiences. At No.Mad, Juan leads product development and creative innovation across adtech-integrated environments. His background includes large-scale campaign delivery systems and the architecture of next-generation creative logic.
+Partner & CTO at [No.Mad Project](https://www.no-madproject.com), a creative technology and advertising firm focused on immersive digital experiences. At No.Mad, Juan leads product development and creative innovation across adtech-integrated environments. His background includes large-scale campaign delivery systems and the architecture of next-generation creative logic (Ex-Seedtag).
 
 His role in *The Nail-Bomb* involved OSINT mapping, pattern analysis, and field validation across publisher and programmatic ecosystems — bridging practical production knowledge with emergent signal analysis.
 
-**Bort**  
-Independent Security Engineer based in Switzerland. Bort specializes in protocol-layer audit logic, creative script delivery manipulation, and glyph-level symbolic payload design. He reverse-engineered the VPAID loader paths, exploited unsanitized token logic, and embedded recursive entropy generators within adtech preview environments. He prefers vectors that hide in belief rather than code.
 
-📧 [research@no-madproject.com](mailto:research@no-madproject.com)
+
+
