@@ -1,7 +1,7 @@
 # The Nail-Bomb  
 ## A Protocol-Scale Adtech Zero Day via Preview Injection, Trust Recursion, and Glyph-Level Propagation
 
-> Published by **Nomad Research**, a division of No.Mad Project  
+> Published by **No.Mad Research**, a division of No.Mad Project  
 > Authors: JuanG (Tech Researcher) & Bort (Independent Security Auditor, CH)
 
 ---
@@ -24,8 +24,6 @@ This is not malware. It is an epistemic artifact revealing ontological negligenc
 
 This research is published strictly for educational and defensive infrastructure auditing purposes.  
 It does not endorse, support, or facilitate misuse of the included technical methodologies.
-
-For disclosures, collaborations, or inquiries, contact: [research@no-madproject.com](mailto:research@no-madproject.com)
 
 ---
 # THE NAIL-BOMB  
