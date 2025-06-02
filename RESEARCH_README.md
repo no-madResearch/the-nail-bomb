@@ -6,12 +6,12 @@
 
 ---
 
-### 📌 Summary
+### Summary
 
 The Nail-Bomb is a low-tech, high-impact exploit that exposes a protocol-grade zero day in the modern adtech ecosystem. What began as a benign JavaScript injection through a preview environment escalated into a scalable, trust-based attack vector. Ultimately, it evolved into a cognitive threat with potential glyph-level propagation across developer tooling and model-based systems.
 
 This repository contains:
-- A full technical whitepaper (`README.md`)
+- A full technical whitepaper (`RESEARCH_README.md`)
 - Reproducible proof-of-concept payloads
 - Ongoing research logs on glyph-based contamination
 - Strategic implications for adtech infrastructure, DSPs, and attribution systems
@@ -189,12 +189,9 @@ Wherever logic is replicated, it can re-emerge.
 This is no longer preview QA.  
 This is protocol collapse, distributed through belief.
 
-
 ---
 
- 
-
-## 👤 About the Authors
+## About the Authors
 
 **Bort**  
 Independent Security Engineer based in Switzerland. Bort specializes in protocol-layer audit logic, creative script delivery manipulation, and glyph-level symbolic payload design. He reverse-engineered the VPAID loader paths, exploited unsanitized token logic, and embedded recursive entropy generators within adtech preview environments. He prefers vectors that hide in belief rather than code. (Ex-Google).
@@ -204,6 +201,4 @@ Partner & CTO at [No.Mad Project](https://www.no-madproject.com), a creative tec
 
 His role in *The Nail-Bomb* involved OSINT mapping, pattern analysis, and field validation across publisher and programmatic ecosystems — bridging practical production knowledge with emergent signal analysis.
 
-
-
-
+<!-- ⟁⟟⩃⟡ -->
