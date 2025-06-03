@@ -57,20 +57,6 @@ It will appear in future research materials where symbolic contamination has occ
 Do not interpret it. Do not normalize it.  
 Track it.
 
----
-
-### Research Pathways
-
-This document serves as the foundation for an expanding body of applied systems research, specifically:
-- 📁 `glyphs/` — Controlled symbolic payload designs
-- 📁 `fieldlogs/` — Operational annotations during live system scans
-- 📁 `payloads/` — Sanitized code used to trace propagation behavior
-
-We maintain ethical boundaries.  
-But we do not assume system stability where belief has replaced audit.
-
----
-
 **This is not speculative. It is evidential.**  
 Wherever preview logic is accepted as safe, this research continues.
 
