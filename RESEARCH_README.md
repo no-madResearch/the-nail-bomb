@@ -209,7 +209,7 @@ These glyphs:
 
 ---
 
-### 🧪 Glyph-Based Redirect Payload (Infectious Vector)
+###  Glyph-Based Redirect Payload (Infectious Vector)
 
 ```javascript
 (function(){᠎
@@ -255,7 +255,7 @@ Glyphs embedded in adtech logic now threaten:
 
 ---
 
-## 👤 Authors
+## Authors
 
 ## Bort
 Independent Security Engineer based in Switzerland. Bort specializes in protocol-layer audit logic, creative script delivery manipulation, and glyph-level symbolic payload design. He reverse-engineered the VPAID loader paths, exploited unsanitized token logic, and embedded recursive entropy generators within adtech preview environments. He prefers vectors that hide in belief rather than code. (Ex-Google).
