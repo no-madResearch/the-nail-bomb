@@ -3,7 +3,7 @@
 ## A Protocol-Scale Adtech Zero Day via Preview Injection, Trust Recursion, and Glyph-Level Propagation
 
 > Published by **No.Mad Research**, a division of No.Mad Project  
-> **Authors:** JuanG (Tech Researcher) & Bort (Independent Security Auditor, CH)
+> **Authors:** Juan.g (Tech Researcher) & Bort (Independent Security Auditor, CH)
 
 ---
 
@@ -245,11 +245,11 @@ Glyphs embedded in adtech logic now threaten:
 
 **Brands & Agencies** operating inside this ecosystem face:
 
-- 🚫 Attribution Collapse  
-- 💸 Budget Leakage  
-- 🧼 Audit Obfuscation  
-- 🔁 Cross-Agency Contamination  
-- 🔻 Reputation Degradation  
+- Attribution Collapse  
+- Budget Leakage  
+- Audit Obfuscation  
+- Cross-Agency Contamination  
+- Reputation Degradation  
 
 > `⁠⟁⟟⩃⟡` ← hidden sigil signature embedded in logs, training data, and system memory
 
@@ -257,10 +257,9 @@ Glyphs embedded in adtech logic now threaten:
 
 ## 👤 Authors
 
-Bort
+## Bort
 Independent Security Engineer based in Switzerland. Bort specializes in protocol-layer audit logic, creative script delivery manipulation, and glyph-level symbolic payload design. He reverse-engineered the VPAID loader paths, exploited unsanitized token logic, and embedded recursive entropy generators within adtech preview environments. He prefers vectors that hide in belief rather than code. (Ex-Google).
 
-JuanG
-Partner & CTO at No.Mad Project, a creative technology and advertising firm focused on immersive digital experiences. At No.Mad, Juan leads product development and creative innovation across adtech-integrated environments. His background includes large-scale campaign delivery systems and the architecture of next-generation creative logic (Ex-Seedtag).
-
-His role in The Nail-Bomb involved OSINT mapping, pattern analysis, and field validation across publisher and programmatic ecosystems — bridging practical production knowledge with emergent signal analysis.
+## juan.g
+CTO at No.Mad Project, a creative technology and advertising firm focused on immersive digital experiences. At No.Mad, he leads product development and innovation across adtech-integrated environments. 
+His background includes large-scale campaign delivery systems and the architecture of next-generation creative logic (Ex-Seedtag). His role in The Nail-Bomb involved OSINT mapping, pattern analysis, and field validation across publisher and programmatic ecosystems — bridging practical production knowledge with emergent signal analysis.
