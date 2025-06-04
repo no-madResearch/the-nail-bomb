@@ -1,8 +1,7 @@
 # AntiTrust Manifesto  
 ## ⟁⟟⩃⟡ Sigil Framework for Strategic Adtech Deconstruction
 
-> Published by **No.Mad Research**  
-> **Authors:** Juan.g (Tech Researcher) & Bort (Independent Security Auditor, CH)
+ > **Authors:** Juan.g (Tech Researcher) & Bort (Independent Security Auditor, CH)
 
 ---
 
