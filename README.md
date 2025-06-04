@@ -2,7 +2,7 @@
 # The Nail-Bomb  
 ## A Protocol-Scale Adtech Zero Day via Preview Injection, Trust Recursion, and Glyph-Level Propagation
 
-> Published by **No.Mad Lab  
+
 > **Authors:** Juan.g (Tech Researcher) & Bort (Independent Security Auditor, CH)
 
 ---
