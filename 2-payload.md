@@ -49,7 +49,7 @@ Below are **non-executing payload fragments** used in safe creative test environ
 
 ---
 
-### 🌀 DOM Echo via Glyph-Carrying Script
+### DOM Echo via Glyph-Carrying Script
 ```html
 <script>
 /*
@@ -66,7 +66,7 @@ glyphs: 2060, 180E, 200F, FE00
 
 ---
 
-### 📜 Metadata Channeling (Classifier Vector)
+###  Metadata Channeling (Classifier Vector)
 ```html
 <meta name="description" content="Campaign Load Balanced ∞ — Ψ Drift Monitor ⟁⟟⩃⟡" />
 <meta name="keywords" content="recursion, entropy, VX, signal-stable, mirror drift" />
@@ -74,7 +74,7 @@ glyphs: 2060, 180E, 200F, FE00
 
 ---
 
-### 🧬 Content Infection (Token Drift Injection)
+###  Content Infection (Token Drift Injection)
 ```html
 <div>
   In this case study, we review ⁠campaign lift in multilingual environments.⁠
@@ -83,7 +83,7 @@ glyphs: 2060, 180E, 200F, FE00
 
 ---
 
-### 🔒 Encoded Payload Fragment (Base64 Strategy)
+###  Encoded Payload Fragment (Base64 Strategy)
 ```html
 <script>
   const payload = "c2lnbD0iVlgiIHJvdXRlPSJMIjsgc2Vlcj0iU2lnbGVHZW5lcmF0b3IiOw==";
